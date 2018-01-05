@@ -1,0 +1,66 @@
+{
+  "name": "indic-anagram",
+  "productName": "indic-anagram",
+  "version": "2.2.1",
+  "description": "Anagram application suited for Indian languages",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "clean": "rm -f -r src/fonts && rm -f -r src/static && rm -f src/asset-manifest.json src/index.html src/manifest.json src/service-worker.js",
+    "make": "yarn clean && cp -r ../anagram-source/build/* src/ && electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "eslint src --color"
+  },
+  "keywords": [],
+  "author": "ajay",
+  "license": "MIT",
+  "config": {
+    "forge": {
+      "make_targets": {
+        "win32": [
+          "squirrel"
+        ],
+        "darwin": [
+          "zip"
+        ],
+        "linux": [
+          "deb",
+          "rpm"
+        ]
+      },
+      "electronPackagerConfig": {
+        "packageManager": "yarn"
+      },
+      "electronWinstallerConfig": {
+        "name": "my_new_project"
+      },
+      "electronInstallerDebian": {},
+      "electronInstallerRedhat": {},
+      "github_repository": {
+        "owner": "",
+        "name": ""
+      },
+      "windowsStoreConfig": {
+        "packageName": "",
+        "name": "mynewproject"
+      }
+    }
+  },
+  "dependencies": {
+    "electron-compile": "^6.4.2",
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "electron-forge": "^4.1.2",
+    "electron-prebuilt-compile": "1.7.8",
+    "eslint": "^3",
+    "eslint-config-airbnb": "^15",
+    "eslint-plugin-import": "^2",
+    "eslint-plugin-jsx-a11y": "^5",
+    "eslint-plugin-react": "^7"
+  }
+}

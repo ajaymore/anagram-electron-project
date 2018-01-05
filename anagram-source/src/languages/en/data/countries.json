@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "5435916e-214b-4af6-b849-8c3eca978472",
+    "text": "Croatia",
+    "comment": "It's capital is Zagreb"
+  },
+  {
+    "id": "2002c7d3-d0fc-4909-aa31-8039c6a4b25d",
+    "text": "Armenia",
+    "comment": "It's capital is Yerevan"
+  },
+  {
+    "id": "1422e45a-49ed-4b42-a7aa-f5d33a9898a5",
+    "text": "Cameroon",
+    "comment": "It's capital is Yaounde"
+  },
+  {
+    "id": "321b8fe2-89a0-4a01-95a1-d4ba0649f5f5",
+    "text": "Cote d'Ivoire",
+    "comment":
+      "It's capital is Yamoussoukro (but Abidjan is the administrative center)"
+  },
+  {
+    "id": "17a0a41b-10ed-4b07-ad95-5673d20cc07d",
+    "text": "Namibia",
+    "comment": "It's capital is Windhoek"
+  },
+  {
+    "id": "f0c92265-f459-45f2-9683-3f344ec9adf6",
+    "text": "Netherlands Antilles",
+    "comment": "It's capital is Willemstad"
+  },
+  {
+    "id": "5bce1555-78a2-454c-b7e5-713321e4ef74",
+    "text": "Cocos (Keeling) Islands",
+    "comment": "It's capital is West Island"
+  },
+  {
+    "id": "6ffbedfa-d0bc-4f20-98a9-4554c4a784ac",
+    "text": "New Zealand",
+    "comment": "It's capital is Wellington"
+  },
+  {
+    "id": "5975adc0-b1ba-4fa0-890f-b300f5a4d271",
+    "text": "United States",
+    "comment": "It's capital is Washington, DC"
+  },
+  {
+    "id": "30d5c43b-c528-4964-be5b-7a8b208df667",
+    "text": "Poland",
+    "comment": "It's capital is Warsaw"
+  },
+  {
+    "id": "b569e322-e219-4cd3-bae0-be910ba79635",
+    "text": "Lithuania",
+    "comment": "It's capital is Vilnius"
+  },
+  {
+    "id": "0d7de39f-b456-46e8-b08e-67ca9c218b13",
+    "text": "Laos",
+    "comment": "It's capital is Vientiane"
+  },
+  {
+    "id": "ed76cc7a-f7f0-4c27-8110-8cde07153fb3",
+    "text": "Austria",
+    "comment": "It's capital is Vienna"
+  },
+  {
+    "id": "600861f8-5a2d-4c8b-a62f-7ac3c4a91c2b",
+    "text": "Seychelles",
+    "comment": "It's capital is Victoria"
+  },
+  {
+    "id": "442c1ac3-4e97-41ff-9345-31076f8c5d3a",
+    "text": "Holy See (Vatican City)",
+    "comment": "It's capital is Vatican City"
+  },
+  {
+    "id": "904da882-7cc7-41bb-9997-ca5234558f45",
+    "text": "Malta",
+    "comment": "It's capital is Valletta"
+  },
+  {
+    "id": "36f1e146-112d-4049-bb70-d3da040e77a0",
+    "text": "Liechtenstein",
+    "comment": "It's capital is Vaduz"
+  },
+  {
+    "id": "47d61b62-a4a6-4d52-976c-61c96fb1c10d",
+    "text": "Mongolia",
+    "comment": "It's capital is Ulaanbaatar"
+  },
+  {
+    "id": "b0feb102-2a4c-4404-ac14-b5346a5bf06e",
+    "text": "Tunisia",
+    "comment": "It's capital is Tunis"
+  },
+  {
+    "id": "af7ef69f-b45b-4f96-be76-e8a1a0363209",
+    "text": "Faroe Islands",
+    "comment": "It's capital is Torshavn"
+  },
+  {
+    "id": "2cc1e833-8ac6-409f-98dd-2d382eb670ca",
+    "text": "Japan",
+    "comment": "It's capital is Tokyo"
+  },
+  {
+    "id": "68f2b0a6-fc15-4b1f-9cd0-66428ec49473",
+    "text": "Albania",
+    "comment": "It's capital is Tirana"
+  },
+  {
+    "id": "fd3f4932-3dc5-4074-a47a-de8287e3bec1",
+    "text": "Bhutan",
+    "comment": "It's capital is Thimphu"
+  },
+  {
+    "id": "0d7ebd4e-5409-4f33-aa9e-b88b4811354d",
+    "text": "Anguilla",
+    "comment": "It's capital is The Valley"
+  },
+  {
+    "id": "60eff25f-a1c5-4e66-bff1-8774c407f81f",
+    "text": "Christmas Island",
+    "comment": "It's capital is The Settlement"
+  },
+  {
+    "id": "274d2f79-6855-4df2-9b10-c90dabc822db",
+    "text": "Iran",
+    "comment": "It's capital is Tehran"
+  },
+  {
+    "id": "80b5a2bf-94b0-46d6-b492-9c78cbb14f30",
+    "text": "Honduras",
+    "comment": "It's capital is Tegucigalpa"
+  },
+  {
+    "id": "39edf581-f656-428c-bac9-b28eab96134e",
+    "text": "Uzbekistan",
+    "comment": "It's capital is Tashkent (Toshkent)"
+  },
+  {
+    "id": "90185459-d7ef-48f8-b68c-4af91bc80243",
+    "text": "Kiribati",
+    "comment": "It's capital is Tarawa"
+  },
+  {
+    "id": "5a673de0-086e-4690-aad2-39b8753c83f4",
+    "text": "Estonia",
+    "comment": "It's capital is Tallinn"
+  },
+  {
+    "id": "a5cca82c-fd85-40c1-b33d-a1e1092c14b6",
+    "text": "Taiwan",
+    "comment": "It's capital is Taipei"
+  },
+  {
+    "id": "3fb48278-af10-4c6b-b9f7-8ed0f2f7ce7c",
+    "text": "Georgia",
+    "comment": "It's capital is T'bilisi"
+  },
+  {
+    "id": "e08390ba-f60d-4520-816e-8b1ee8790b05",
+    "text": "Fiji",
+    "comment": "It's capital is Suva"
+  },
+  {
+    "id": "b7d206aa-ca27-41c8-bf76-9258d1f04d30",
+    "text": "Sweden",
+    "comment": "It's capital is Stockholm"
+  },
+  {
+    "id": "ff0c3165-793f-4137-84b9-1cc188d6b32d",
+    "text": "Falkland Islands (Islas Malvinas)",
+    "comment": "It's capital is Stanley"
+  },
+  {
+    "id": "9439c020-b933-4f1d-8133-e4900109308d",
+    "text": "Bulgaria",
+    "comment": "It's capital is Sofia"
+  },
+  {
+    "id": "6759a427-13d8-4550-af72-94cc741d5119",
+    "text": "The Former Yugoslav Republic of Macedonia",
+    "comment": "It's capital is Skopje"
+  },
+  {
+    "id": "154a385b-3e87-40f2-b544-a8d33565e7bc",
+    "text": "Singapore",
+    "comment": "It's capital is Singapore"
+  },
+  {
+    "id": "df88f607-ad9e-47e0-b3ac-c5085bf2ad2e",
+    "text": "South Korea",
+    "comment": "It's capital is Seoul"
+  },
+  {
+    "id": "282d2345-466c-4979-b9f4-c026f9261aaf",
+    "text": "Bosnia and Herzegovina",
+    "comment": "It's capital is Sarajevo"
+  },
+  {
+    "id": "271092e0-9bb7-4251-89c3-ed15e4ec1e18",
+    "text": "Sao Tome and Principe",
+    "comment": "It's capital is Sao Tome"
+  },
+  {
+    "id": "61711265-c76c-421a-95d9-5412cd8470e6",
+    "text": "Dominican Republic",
+    "comment": "It's capital is Santo Domingo"
+  },
+  {
+    "id": "6b481839-cada-4bcf-a46a-e9a5d6ba9629",
+    "text": "Chile",
+    "comment": "It's capital is Santiago"
+  },
+  {
+    "id": "4824d28f-15fa-4d20-8ab9-8227e0cf8818",
+    "text": "Yemen",
+    "comment": "It's capital is Sanaa"
+  },
+  {
+    "id": "b3689d4b-0744-441f-bfd2-cddcd5f01ff1",
+    "text": "El Salvador",
+    "comment": "It's capital is San Salvador"
+  },
+  {
+    "id": "a6066f4d-cd48-49cb-b216-52ee419b1bea",
+    "text": "San Marino",
+    "comment": "It's capital is San Marino"
+  },
+  {
+    "id": "715cf11f-e686-48a8-8821-e4559cc55b8e",
+    "text": "Puerto Rico",
+    "comment": "It's capital is San Juan"
+  },
+  {
+    "id": "5e6514f3-3a44-4345-82e3-aa74d2259f3d",
+    "text": "Costa Rica",
+    "comment": "It's capital is San Jose"
+  },
+  {
+    "id": "3cabeeb9-7b52-4069-9e09-77d5ba7acd18",
+    "text": "Northern Mariana Islands",
+    "comment": "It's capital is Saipan"
+  },
+  {
+    "id": "889bd471-9fdf-46a2-a475-0c3b6881be53",
+    "text": "Saint Pierre and Miquelon",
+    "comment": "It's capital is Saint-Pierre"
+  },
+  {
+    "id": "3b8ec4e3-b2fa-4586-9b8e-a9feecee8099",
+    "text": "Reunion",
+    "comment": "It's capital is Saint-Denis"
+  },
+  {
+    "id": "65197da5-fd26-4fa2-aa5b-1146fbb2b056",
+    "text": "Guernsey",
+    "comment": "It's capital is Saint Peter Port"
+  },
+  {
+    "id": "9e7b4094-3b5e-45d7-94f3-b2346722a5a3",
+    "text": "Antigua and Barbuda",
+    "comment": "It's capital is Saint John's"
+  },
+  {
+    "id": "25b52773-d0a7-47a9-8a9d-1821060ddcc8",
+    "text": "Jersey",
+    "comment": "It's capital is Saint Helier"
+  },
+  {
+    "id": "76b3f35c-9505-4d8c-bd19-6b3b36f35fe0",
+    "text": "Grenada",
+    "comment": "It's capital is Saint George's"
+  },
+  {
+    "id": "6b24da27-d224-4723-8b90-9b93ac7f9320",
+    "text": "Dominica",
+    "comment": "It's capital is Roseau"
+  },
+  {
+    "id": "f0bd66d5-1f73-4982-8d8b-30ebe934e471",
+    "text": "Italy",
+    "comment": "It's capital is Rome"
+  },
+  {
+    "id": "946e355c-b580-44bc-898e-245c46f8f9e8",
+    "text": "British Virgin Islands",
+    "comment": "It's capital is Road Town"
+  },
+  {
+    "id": "d722eafa-f868-41d4-8165-d11892a5e8c3",
+    "text": "Saudi Arabia",
+    "comment": "It's capital is Riyadh"
+  },
+  {
+    "id": "c779c387-d857-404c-b039-09bff65425ad",
+    "text": "Latvia",
+    "comment": "It's capital is Riga"
+  },
+  {
+    "id": "92d06df7-2d5b-426e-a152-0943be95a2b9",
+    "text": "Iceland",
+    "comment": "It's capital is Reykjavik"
+  },
+  {
+    "id": "dbdf79e9-bb43-4ae2-9fd3-46a0c3948d0f",
+    "text": "Burma",
+    "comment":
+      "It's capital is Rangoon (regime refers to the capital as Yangon)"
+  },
+  {
+    "id": "00c56849-1ff7-4c41-bc27-ca9e36b71b13",
+    "text": "Morocco",
+    "comment": "It's capital is Rabat"
+  },
+  {
+    "id": "3c7b79f7-af2b-4b2d-aff1-fdb231034d0f",
+    "text": "Ecuador",
+    "comment": "It's capital is Quito"
+  },
+  {
+    "id": "fb04bdc3-2ec0-4f81-89fb-5456d0c77b32",
+    "text": "South Africa",
+    "comment": "It's capital is Pretoria"
+  },
+  {
+    "id": "9b2770f2-92fb-40a1-a45d-1e91041a7ead",
+    "text": "Cape Verde",
+    "comment": "It's capital is Praia"
+  },
+  {
+    "id": "7399321f-58b6-4ccb-8b58-70e5c0d366ab",
+    "text": "Czech Republic",
+    "comment": "It's capital is Prague"
+  },
+  {
+    "id": "60071865-d720-49fa-833d-556407dfbb8a",
+    "text": "Benin",
+    "comment":
+      "It's capital is Porto-Novo is the official capital; Cotonou is the seat of government"
+  },
+  {
+    "id": "45fbad2e-1550-450c-8131-1dad7ac4c9ae",
+    "text": "Vanuatu",
+    "comment": "It's capital is Port-Vila"
+  },
+  {
+    "id": "aad0ed8e-f4e6-4e4b-ad61-31a30fbf15bc",
+    "text": "Trinidad and Tobago",
+    "comment": "It's capital is Port-of-Spain"
+  },
+  {
+    "id": "519dfb29-55d6-40b0-aee5-ccd4cbe78756",
+    "text": "Haiti",
+    "comment": "It's capital is Port-au-Prince"
+  },
+  {
+    "id": "9d5b1a5d-d3f9-4a88-81ea-dc7984f42f6f",
+    "text": "Papua New Guinea",
+    "comment": "It's capital is Port Moresby"
+  },
+  {
+    "id": "497c4afb-9c36-4b08-a297-ddcf3f8c0493",
+    "text": "Mauritius",
+    "comment": "It's capital is Port Louis"
+  },
+  {
+    "id": "38d3fa92-81ca-4187-8fab-16f626a6ebc5",
+    "text": "Montserrat",
+    "comment": "It's capital is Plymouth"
+  },
+  {
+    "id": "5b23b1a9-56d6-4135-81d7-969892f51a69",
+    "text": "Cambodia",
+    "comment": "It's capital is Phnom Penh"
+  },
+  {
+    "id": "49801d84-2bd5-4ce2-9686-ca383da6e357",
+    "text": "France",
+    "comment": "It's capital is Paris"
+  },
+  {
+    "id": "e2d6fbf6-8261-4542-84ad-d6fd0c216aff",
+    "text": "Suriname",
+    "comment": "It's capital is Paramaribo"
+  },
+  {
+    "id": "f44e03f9-21ff-4578-8e26-02da527a093b",
+    "text": "French Polynesia",
+    "comment": "It's capital is Papeete"
+  },
+  {
+    "id": "55a59a99-c3e9-4411-9b0d-cf78a7ab2ec6",
+    "text": "Panama",
+    "comment": "It's capital is Panama"
+  },
+  {
+    "id": "aad24860-7887-4367-a539-9e39fcc300c4",
+    "text": "Federated States of Micronesia",
+    "comment": "It's capital is Palikir"
+  },
+  {
+    "id": "4ba35729-5d25-4517-9c99-213f98786a4e",
+    "text": "American Samoa",
+    "comment": "It's capital is Pago Pago"
+  },
+  {
+    "id": "7cd546f9-4ba0-4794-b7af-2005c88964cf",
+    "text": "North Korea",
+    "comment": "It's capital is P'yongyang"
+  },
+  {
+    "id": "ebce4759-cd75-411c-952f-7f06ec59e53c",
+    "text": "Burkina Faso",
+    "comment": "It's capital is Ouagadougou"
+  },
+  {
+    "id": "3559cbdb-0708-4fd9-8ce5-06df1db83bbb",
+    "text": "Canada",
+    "comment": "It's capital is Ottawa"
+  },
+  {
+    "id": "d3435390-19be-4328-85f0-7fea90355d75",
+    "text": "Norway",
+    "comment": "It's capital is Oslo"
+  },
+  {
+    "id": "98ffecb1-c169-4d35-b488-e25495fc507f",
+    "text": "Aruba",
+    "comment": "It's capital is Oranjestad"
+  },
+  {
+    "id": "80eac88c-737d-4043-b295-58f6c0d2a190",
+    "text": "Greenland",
+    "comment": "It's capital is Nuuk (Godthab)"
+  },
+  {
+    "id": "3ff33c58-73ba-4a48-8cef-040a60dc7443",
+    "text": "Tonga",
+    "comment": "It's capital is Nuku'alofa"
+  },
+  {
+    "id": "92c633f3-7209-42b5-a964-96470da1addc",
+    "text": "New Caledonia",
+    "comment": "It's capital is Noumea"
+  },
+  {
+    "id": "cc7a3a63-fa18-4a60-8ecf-a6c09b4234a7",
+    "text": "Mauritania",
+    "comment": "It's capital is Nouakchott"
+  },
+  {
+    "id": "6d152946-46ef-4714-a2b7-99e347c4c0f4",
+    "text": "Tokelau",
+    "comment":
+      "It's capital is none; each atoll has its own administrative center"
+  },
+  {
+    "id": "953f442a-9b92-4fbb-b558-d519fd034857",
+    "text": "Western Sahara",
+    "comment": "It's capital is none"
+  },
+  {
+    "id": "d2c6dddc-63c0-4c60-9b4f-f1b47b3f92c9",
+    "text": "Nauru",
+    "comment":
+      "It's capital is no official capital; government offices in Yaren District"
+  },
+  {
+    "id": "54f10fbe-584c-41f7-8178-fe9b33a1a7f7",
+    "text": "Cyprus",
+    "comment": "It's capital is Nicosia"
+  },
+  {
+    "id": "afa25ef7-3acf-48a2-956d-9de4e3bb0497",
+    "text": "Niger",
+    "comment": "It's capital is Niamey"
+  },
+  {
+    "id": "d9f4bb2d-98bd-4c73-9a92-5210f8b0c8d5",
+    "text": "India",
+    "comment": "It's capital is New Delhi"
+  },
+  {
+    "id": "a3543be2-9259-4a5a-8333-f805d3bd81db",
+    "text": "The Bahamas",
+    "comment": "It's capital is Nassau"
+  },
+  {
+    "id": "dc5fc5f2-9429-4a50-9c4b-eb299bf66199",
+    "text": "Kenya",
+    "comment": "It's capital is Nairobi"
+  },
+  {
+    "id": "8ce9c53d-0957-4713-ab52-8cfa20c855a9",
+    "text": "Uruguay",
+    "comment": "It's capital is Montevideo"
+  },
+  {
+    "id": "238cf3e4-e5fd-46d6-abf9-5400208f3426",
+    "text": "Liberia",
+    "comment": "It's capital is Monrovia"
+  },
+  {
+    "id": "d64d44d2-3bcb-4d41-ae89-797a503822d9",
+    "text": "Monaco",
+    "comment": "It's capital is Monaco"
+  },
+  {
+    "id": "198f7cb8-37a3-4e0a-a991-fd22977444a5",
+    "text": "Somalia",
+    "comment": "It's capital is Mogadishu"
+  },
+  {
+    "id": "51aa5616-1b94-4d09-b503-2cb87206d160",
+    "text": "Belarus",
+    "comment": "It's capital is Minsk"
+  },
+  {
+    "id": "d2df29ce-847d-4208-99c7-7398080401a8",
+    "text": "Mexico",
+    "comment": "It's capital is Mexico"
+  },
+  {
+    "id": "822c986a-d779-49aa-9c0f-c31c8a8cd23e",
+    "text": "Swaziland",
+    "comment": "It's capital is Mbabane"
+  },
+  {
+    "id": "50f88180-252a-4ceb-90d2-59b10bfeea26",
+    "text": "Wallis and Futuna",
+    "comment": "It's capital is Mata-Utu (on Ile Uvea)"
+  },
+  {
+    "id": "b003bd11-192a-4e81-9f04-90fb37afa46a",
+    "text": "Lesotho",
+    "comment": "It's capital is Maseru"
+  },
+  {
+    "id": "b38472bf-7eb0-433b-ba59-6589785ffd88",
+    "text": "Mozambique",
+    "comment": "It's capital is Maputo"
+  },
+  {
+    "id": "9acb02ce-1c43-4b66-9304-3b03e91142c2",
+    "text": "Philippines",
+    "comment": "It's capital is Manila"
+  },
+  {
+    "id": "96c04fb0-1e0f-4af4-88a7-6acb507116ff",
+    "text": "Bahrain",
+    "comment": "It's capital is Manama"
+  },
+  {
+    "id": "ec078d5e-f6fb-4864-8cc4-1c8da9e1654b",
+    "text": "Nicaragua",
+    "comment": "It's capital is Managua"
+  },
+  {
+    "id": "0b44f248-1840-46be-a109-f6f64aa14d20",
+    "text": "Mayotte",
+    "comment": "It's capital is Mamoutzou"
+  },
+  {
+    "id": "27cb4974-8d33-47ed-a470-cb4c7a2528e7",
+    "text": "Maldives",
+    "comment": "It's capital is Male"
+  },
+  {
+    "id": "42a8dca9-9aee-4464-9a91-97c8d0ace607",
+    "text": "Equatorial Guinea",
+    "comment": "It's capital is Malabo"
+  },
+  {
+    "id": "9d8745ab-a784-4b0e-9642-641531e5db6d",
+    "text": "Marshall Islands",
+    "comment": "It's capital is Majuro"
+  },
+  {
+    "id": "58ca73b3-fea1-4daa-956b-fb0f95f5dadd",
+    "text": "Spain",
+    "comment": "It's capital is Madrid"
+  },
+  {
+    "id": "fc409b1e-476d-4fdc-85aa-7d5803eabe9d",
+    "text": "Luxembourg",
+    "comment": "It's capital is Luxembourg"
+  },
+  {
+    "id": "79880f0e-30bd-4a9f-98d7-3e8c26419947",
+    "text": "Zambia",
+    "comment": "It's capital is Lusaka"
+  },
+  {
+    "id": "aa6d193d-cdae-410d-b60b-51b46c6584bf",
+    "text": "Angola",
+    "comment": "It's capital is Luanda"
+  },
+  {
+    "id": "8eddb02e-3174-4d04-a517-234e54632afa",
+    "text": "Svalbard",
+    "comment": "It's capital is Longyearbyen"
+  },
+  {
+    "id": "8c610313-be91-4fe9-8022-4cfe55a2eb20",
+    "text": "United Kingdom",
+    "comment": "It's capital is London"
+  },
+  {
+    "id": "2aed35f2-c917-4c00-baf1-7b2c62862282",
+    "text": "Togo",
+    "comment": "It's capital is Lome"
+  },
+  {
+    "id": "76e4a48a-349c-415d-90bd-8e6041c0fb37",
+    "text": "Slovenia",
+    "comment": "It's capital is Ljubljana"
+  },
+  {
+    "id": "50a011de-56bc-4201-9dee-0451e8b3d981",
+    "text": "Portugal",
+    "comment": "It's capital is Lisbon"
+  },
+  {
+    "id": "9b2467eb-3d5a-40f4-87bc-08bfb38d8fcb",
+    "text": "Peru",
+    "comment": "It's capital is Lima"
+  },
+  {
+    "id": "9523749b-d80d-4250-98b2-a59eba9bac1a",
+    "text": "Malawi",
+    "comment": "It's capital is Lilongwe"
+  },
+  {
+    "id": "bed523b0-3398-401c-afd5-96a384f13963",
+    "text": "Gabon",
+    "comment": "It's capital is Libreville"
+  },
+  {
+    "id": "a3f5c716-6bf8-4382-90e9-3257c29242e3",
+    "text": "Bolivia",
+    "comment":
+      "It's capital is La Paz (seat of government); Sucre (legal capital and seat of judiciary)"
+  },
+  {
+    "id": "93a1b819-532d-4902-a156-97d34322deb0",
+    "text": "Kuwait",
+    "comment": "It's capital is Kuwait"
+  },
+  {
+    "id": "eeddb954-0a4b-4681-96d6-cca940fcc491",
+    "text": "Malaysia",
+    "comment": "It's capital is Kuala Lumpur"
+  },
+  {
+    "id": "a20c30a8-6774-46c3-a33d-4ce1dd7ba1fc",
+    "text": "Palau",
+    "comment": "It's capital is Koror"
+  },
+  {
+    "id": "6901b68d-0a3f-4558-9291-7a9df28bb055",
+    "text": "Democratic Republic of the Congo",
+    "comment": "It's capital is Kinshasa"
+  },
+  {
+    "id": "dd3c603c-bd71-4da4-a772-59238b4c3873",
+    "text": "Saint Vincent and the Grenadines",
+    "comment": "It's capital is Kingstown"
+  },
+  {
+    "id": "d50b7288-a731-45fe-b0ce-664135d4a5b5",
+    "text": "Norfolk Island",
+    "comment": "It's capital is Kingston"
+  },
+  {
+    "id": "f415c3a2-01c5-48f2-9c45-fdd125d22657",
+    "text": "Jamaica",
+    "comment": "It's capital is Kingston"
+  },
+  {
+    "id": "9f1c3769-a3f7-4685-815a-edeb2d78eb82",
+    "text": "Rwanda",
+    "comment": "It's capital is Kigali"
+  },
+  {
+    "id": "f11bf40d-3483-4675-abc4-451dffedaefc",
+    "text": "Ukraine",
+    "comment": "It's capital is Kiev (Kyyiv)"
+  },
+  {
+    "id": "d8423b85-8700-4b76-8b99-43fd2ed5f97b",
+    "text": "Sudan",
+    "comment": "It's capital is Khartoum"
+  },
+  {
+    "id": "093ed559-2039-48dc-a465-e94608bec43b",
+    "text": "Nepal",
+    "comment": "It's capital is Kathmandu"
+  },
+  {
+    "id": "5ef997f2-a317-4501-a074-821b8c5c7429",
+    "text": "Uganda",
+    "comment": "It's capital is Kampala"
+  },
+  {
+    "id": "76f03de6-8e07-4c9e-949f-4956efd4e6d6",
+    "text": "Afghanistan",
+    "comment": "It's capital is Kabul"
+  },
+  {
+    "id": "086d1633-4ecd-414a-a912-3731ca100ccc",
+    "text": "Israel",
+    "comment": "It's capital is Jerusalem"
+  },
+  {
+    "id": "649448f6-b5d9-4ec9-b9ab-37a8ed369ea3",
+    "text": "Saint Helena",
+    "comment": "It's capital is Jamestown"
+  },
+  {
+    "id": "b1410aff-47f0-4be1-9bb9-928f97e29cb4",
+    "text": "Indonesia",
+    "comment": "It's capital is Jakarta"
+  },
+  {
+    "id": "f22cd412-c527-4ad0-a22d-43f5ae0cd2b3",
+    "text": "Pakistan",
+    "comment": "It's capital is Islamabad"
+  },
+  {
+    "id": "8b786051-3671-4e1c-b9fb-e975660cfe87",
+    "text": "Solomon Islands",
+    "comment": "It's capital is Honiara"
+  },
+  {
+    "id": "76549a1f-f29a-46ce-ae61-314a4d3d03ef",
+    "text": "Finland",
+    "comment": "It's capital is Helsinki"
+  },
+  {
+    "id": "8e14037f-dbbf-4b6a-be8b-afa7470ab8c7",
+    "text": "Cuba",
+    "comment": "It's capital is Havana"
+  },
+  {
+    "id": "cda2c5fa-1791-49ac-8f57-39e7f4534b10",
+    "text": "Zimbabwe",
+    "comment": "It's capital is Harare"
+  },
+  {
+    "id": "b34c679e-f13d-42f5-991c-b34f20b683d9",
+    "text": "Vietnam",
+    "comment": "It's capital is Hanoi"
+  },
+  {
+    "id": "27afbae5-bb59-44ff-b14d-431582788360",
+    "text": "Bermuda",
+    "comment": "It's capital is Hamilton"
+  },
+  {
+    "id": "0d626c8c-8e74-46b4-8e51-9b8ea0124581",
+    "text": "Guam",
+    "comment": "It's capital is Hagatna (Agana)"
+  },
+  {
+    "id": "a65fed6b-bff7-4da0-9005-f5b86963267d",
+    "text": "Guatemala",
+    "comment": "It's capital is Guatemala"
+  },
+  {
+    "id": "cc2f5932-db15-40ea-b2fa-6c76efa5fd23",
+    "text": "Gibraltar",
+    "comment": "It's capital is Gibraltar"
+  },
+  {
+    "id": "24522c75-e6e6-46a6-a833-b0c634206d13",
+    "text": "Guyana",
+    "comment": "It's capital is Georgetown"
+  },
+  {
+    "id": "42696305-9954-4e36-b76c-769794b653cb",
+    "text": "Cayman Islands",
+    "comment": "It's capital is George Town"
+  },
+  {
+    "id": "c2f8c94e-be7e-40ee-93cf-f45280f40e8f",
+    "text": "Botswana",
+    "comment": "It's capital is Gaborone"
+  },
+  {
+    "id": "156c14ff-6b85-4cb6-8a8d-7319be5af4eb",
+    "text": "Tuvalu",
+    "comment": "It's capital is Funafuti"
+  },
+  {
+    "id": "e81b4930-9e3b-47a2-b7c9-204d61e644ca",
+    "text": "Sierra Leone",
+    "comment": "It's capital is Freetown"
+  },
+  {
+    "id": "2763d950-a3d1-4adf-bcd4-efeccaf57d47",
+    "text": "Martinique",
+    "comment": "It's capital is Fort-de-France"
+  },
+  {
+    "id": "cd1863e9-57e8-4be7-b1a4-aeba55804163",
+    "text": "Tajikistan",
+    "comment": "It's capital is Dushanbe"
+  },
+  {
+    "id": "76aba463-0386-42ce-a206-2c6ab886999e",
+    "text": "Ireland",
+    "comment": "It's capital is Dublin"
+  },
+  {
+    "id": "427f32f4-ad0b-4d5b-ac2b-495384d9d70a",
+    "text": "Isle of Man",
+    "comment": "It's capital is Douglas"
+  },
+  {
+    "id": "4f0e2b2a-5779-4337-ab21-a80f15114124",
+    "text": "Djibouti",
+    "comment": "It's capital is Djibouti"
+  },
+  {
+    "id": "2e9945db-a438-441b-9725-153c2869cd88",
+    "text": "Bangladesh",
+    "comment": "It's capital is Dhaka"
+  },
+  {
+    "id": "90f08926-0f89-48a6-a1ba-0b35228f0491",
+    "text": "Tanzania",
+    "comment": "It's capital is Dar es Salaam"
+  },
+  {
+    "id": "ed884c49-aaf1-401a-8664-294e1afdd0ca",
+    "text": "Syria",
+    "comment": "It's capital is Damascus"
+  },
+  {
+    "id": "8cd89bc7-90a5-4d89-905e-eb20f120c550",
+    "text": "Senegal",
+    "comment": "It's capital is Dakar"
+  },
+  {
+    "id": "edbc7f24-e2fd-4f20-9b92-4f4a27dbd1d9",
+    "text": "Denmark",
+    "comment": "It's capital is Copenhagen"
+  },
+  {
+    "id": "fab6be9f-c2bf-44e1-868b-c367de393d79",
+    "text": "Guinea",
+    "comment": "It's capital is Conakry"
+  },
+  {
+    "id": "6bfe313d-cfca-47e5-8585-5c8871ae2fde",
+    "text": "Sri Lanka",
+    "comment": "It's capital is Colombo"
+  },
+  {
+    "id": "d5f234f4-a49b-45ae-90f5-d8d1d4117222",
+    "text": "Turks and Caicos Islands",
+    "comment": "It's capital is Cockburn Town (on Grand Turk)"
+  },
+  {
+    "id": "821ea426-5686-447b-b216-da5ad44364e4",
+    "text": "Moldova",
+    "comment": "It's capital is Chisinau"
+  },
+  {
+    "id": "f0361819-8af3-4810-b501-0d8ea990ae20",
+    "text": "Virgin Islands",
+    "comment": "It's capital is Charlotte Amalie"
+  },
+  {
+    "id": "2123b855-d82b-4630-b442-c3f48550309e",
+    "text": "French Guiana",
+    "comment": "It's capital is Cayenne"
+  },
+  {
+    "id": "fefad749-dfb4-44c7-95ff-b1f82c45deb9",
+    "text": "Saint Lucia",
+    "comment": "It's capital is Castries"
+  },
+  {
+    "id": "963ed6ef-bb4f-486c-9d10-bcd4551e5833",
+    "text": "Venezuela",
+    "comment": "It's capital is Caracas"
+  },
+  {
+    "id": "8dfb269f-898e-454d-9009-b4486bfbf64f",
+    "text": "Australia",
+    "comment": "It's capital is Canberra"
+  },
+  {
+    "id": "c13d9e32-3b6f-4878-8b63-4b7d7730cd18",
+    "text": "Egypt",
+    "comment": "It's capital is Cairo"
+  },
+  {
+    "id": "db7de70a-c17e-444d-8c16-70a8a872b276",
+    "text": "Burundi",
+    "comment": "It's capital is Bujumbura"
+  },
+  {
+    "id": "aea561d7-1cdb-4de0-a099-3587c0d772df",
+    "text": "Argentina",
+    "comment": "It's capital is Buenos Aires"
+  },
+  {
+    "id": "b9042d2f-0169-4a80-a9ec-baacd8ba0687",
+    "text": "Hungary",
+    "comment": "It's capital is Budapest"
+  },
+  {
+    "id": "ed40db93-db35-42e9-b9d4-c20863a0e91e",
+    "text": "Romania",
+    "comment": "It's capital is Bucharest"
+  },
+  {
+    "id": "9570fcc6-9def-464a-9e0c-6c964544b961",
+    "text": "Belgium",
+    "comment": "It's capital is Brussels"
+  },
+  {
+    "id": "c26a2c1f-26ad-431e-9b15-33e76a9e5112",
+    "text": "Barbados",
+    "comment": "It's capital is Bridgetown"
+  },
+  {
+    "id": "7e1fa85b-211d-4358-842a-3f469ee97e5f",
+    "text": "Republic of the Congo",
+    "comment": "It's capital is Brazzaville"
+  },
+  {
+    "id": "7c0901da-6400-4ae0-a584-f1cf8d60bbdd",
+    "text": "Slovakia",
+    "comment": "It's capital is Bratislava"
+  },
+  {
+    "id": "abe64c7e-f0d3-4408-a0c1-a99167134997",
+    "text": "Brazil",
+    "comment": "It's capital is Brasilia"
+  },
+  {
+    "id": "14731201-4699-475b-8b74-68a1cde0aa00",
+    "text": "Columbia",
+    "comment": "It's capital is Bogota"
+  },
+  {
+    "id": "ba016c79-0cdf-498d-a5ab-2e476b302365",
+    "text": "Guinea-Bissau",
+    "comment": "It's capital is Bissau"
+  },
+  {
+    "id": "746c401f-0065-4b61-8ada-b6d583ced224",
+    "text": "Kyrgyzstan",
+    "comment": "It's capital is Bishkek"
+  },
+  {
+    "id": "192545c9-4f87-4aba-a8a5-47c7c260acdf",
+    "text": "Switzerland",
+    "comment": "It's capital is Bern"
+  },
+  {
+    "id": "0645f50a-8491-4799-a6f7-9a1870faa7bd",
+    "text": "Germany",
+    "comment": "It's capital is Berlin"
+  },
+  {
+    "id": "26b7cc76-bf43-4110-bf8f-a7621d06a1f8",
+    "text": "Belize",
+    "comment": "It's capital is Belmopan"
+  },
+  {
+    "id": "e2f95c25-3ca5-4bfe-b02b-e60c7716b220",
+    "text": "Yugoslavia",
+    "comment": "It's capital is Belgrade"
+  },
+  {
+    "id": "5b9b6175-939f-4514-a19d-bd63e5dba4b3",
+    "text": "Lebanon",
+    "comment": "It's capital is Beirut"
+  },
+  {
+    "id": "32f07f1f-d86f-44dd-8576-b92b52af05d6",
+    "text": "China",
+    "comment": "It's capital is Beijing"
+  },
+  {
+    "id": "7f2ec6f2-f6e5-4768-9661-fbdc47b4ca0c",
+    "text": "Saint Kitts and Nevis",
+    "comment": "It's capital is Basseterre"
+  },
+  {
+    "id": "c8de293a-41a1-4bc3-b201-4886b25a2755",
+    "text": "Guadeloupe",
+    "comment": "It's capital is Basse-Terre"
+  },
+  {
+    "id": "87ed7616-3c03-4f25-a17c-ecbc09c4909b",
+    "text": "The Gambia",
+    "comment": "It's capital is Banjul"
+  },
+  {
+    "id": "6d77964c-cd1a-435f-bb38-aad72cea817e",
+    "text": "Central African Republic",
+    "comment": "It's capital is Bangui"
+  },
+  {
+    "id": "1de1a8cc-d38f-4f90-9d40-8e43b28ea2eb",
+    "text": "Thailand",
+    "comment": "It's capital is Bangkok"
+  },
+  {
+    "id": "0379a3ef-fee4-4344-8d49-0a7ab234797e",
+    "text": "Brunei",
+    "comment": "It's capital is Bandar Seri Begawan"
+  },
+  {
+    "id": "b7cdce5a-9dff-4488-a443-c56f893f931d",
+    "text": "Mali",
+    "comment": "It's capital is Bamako"
+  },
+  {
+    "id": "3b5e0073-df47-4f2a-a36e-2b3570697311",
+    "text": "Azerbaijan",
+    "comment": "It's capital is Baku (Baki)"
+  },
+  {
+    "id": "ed9ba0ed-6010-4b0d-9270-adde85e5d596",
+    "text": "Iraq",
+    "comment": "It's capital is Baghdad"
+  },
+  {
+    "id": "bf81ddc1-8945-4f97-ad9c-a42ddc2971c7",
+    "text": "Cook Islands",
+    "comment": "It's capital is Avarua"
+  },
+  {
+    "id": "0d2c22a9-eec8-47e1-b7e2-c75b47a9f292",
+    "text": "Greece",
+    "comment": "It's capital is Athens"
+  },
+  {
+    "id": "db723b07-c73e-4017-87e3-ad5ed6def8e5",
+    "text": "Paraguay",
+    "comment": "It's capital is Asuncion"
+  },
+  {
+    "id": "6a7b2922-6b37-4ab1-9fcc-15c1afafe3bd",
+    "text": "Kazakhstan",
+    "comment": "It's capital is Astana"
+  },
+  {
+    "id": "9481237f-f26e-4f68-b0d2-9ae6e19000dd",
+    "text": "Eritrea",
+    "comment": "It's capital is Asmara (formerly Asmera)"
+  },
+  {
+    "id": "3bcd9724-b4e0-42cc-8743-386c8d914ee4",
+    "text": "Turkmenistan",
+    "comment": "It's capital is Ashgabat"
+  },
+  {
+    "id": "e3c134f7-ffdc-4e47-aa6a-c2b6d598ae93",
+    "text": "Samoa",
+    "comment": "It's capital is Apia"
+  },
+  {
+    "id": "33e695f1-f59b-4219-a59d-2b64c5479cdd",
+    "text": "Madagascar",
+    "comment": "It's capital is Antananarivo"
+  },
+  {
+    "id": "bbde4a0e-8189-4e9e-bfec-e0875a2768ae",
+    "text": "Turkey",
+    "comment": "It's capital is Ankara"
+  },
+  {
+    "id": "dd90dc19-c35e-43db-841e-0faa1a2dfc08",
+    "text": "Andorra",
+    "comment": "It's capital is Andorra la Vella"
+  },
+  {
+    "id": "5ef23c22-d5f5-4923-a06a-7c27ab10d91c",
+    "text": "Netherlands",
+    "comment": "It's capital is Amsterdam; The Hague is the seat of government"
+  },
+  {
+    "id": "01c1d847-3016-4d90-8f5f-e9667cec5089",
+    "text": "Jordan",
+    "comment": "It's capital is Amman"
+  },
+  {
+    "id": "657baf58-2e37-48fe-b23c-9f1c7f581f78",
+    "text": "Niue",
+    "comment": "It's capital is Alofi"
+  },
+  {
+    "id": "234e32f9-7076-4dac-a1ca-1965c6822a72",
+    "text": "Algeria",
+    "comment": "It's capital is Algiers"
+  },
+  {
+    "id": "e8218615-d3c0-47e0-b1db-d422821dc94a",
+    "text": "Pitcairn Islands",
+    "comment": "It's capital is Adamstown"
+  },
+  {
+    "id": "28435d7b-ca1b-45fb-8c15-019ee73cb917",
+    "text": "Ghana",
+    "comment": "It's capital is Accra"
+  },
+  {
+    "id": "1170a603-84cc-428a-8eaf-d46b24c1601e",
+    "text": "Nigeria",
+    "comment": "It's capital is Abuja"
+  },
+  {
+    "id": "0f060d6f-4cc9-4a1e-b2a0-0242b9872839",
+    "text": "United Arab Emirates",
+    "comment": "It's capital is Abu Dhabi"
+  }
+]

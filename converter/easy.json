@@ -1,0 +1,222 @@
+[
+  {
+    "id": "f46f0860-f7f1-48fb-bfd2-dab795b515cb",
+    "text": "playtime",
+    "comment": "time assigned for children to play"
+  },
+  {
+    "id": "aed8f6dc-171a-42ea-9352-b00723820848",
+    "text": "furniture",
+    "comment": "objects in a room"
+  },
+  {
+    "id": "1488bc18-6656-4b4a-bbe7-9a64c86671d4",
+    "text": "garden",
+    "comment": "a piece of cultivated ground"
+  },
+  {
+    "id": "3e903515-eae9-48ed-a3bb-55f9727824c9",
+    "text": "pupil",
+    "comment": "a person taught by another"
+  },
+  {
+    "id": "fee1f34f-5a03-423b-8b98-ca46a14c35d6",
+    "text": "vegetables",
+    "comment": "a plant of which some part is used as food"
+  },
+  {
+    "id": "aef09017-20d4-4092-ae10-cc701c571781",
+    "text": "apple",
+    "comment": "a round firm fruit"
+  },
+  {
+    "id": "f98af884-9c19-4913-a1d3-6b143a5e1e00",
+    "text": "plate",
+    "comment": "almost flat usually circular ustensil"
+  },
+  {
+    "id": "b953afcd-f6eb-4caa-9757-0ef22b069e78",
+    "text": "sweet",
+    "comment": "tasting as if containing sugar"
+  },
+  {
+    "id": "c8057ad5-31b7-44f7-b575-b8e66bb04a3c",
+    "text": "kitchen",
+    "comment": "room in which meals are prepared"
+  },
+  {
+    "id": "8f44cae0-f1c5-430a-889c-93d78d6c5d95",
+    "text": "chocolate",
+    "comment": "made from cocoa"
+  },
+  {
+    "id": "1a1dfccd-9c24-4ffc-8323-46cbf3362787",
+    "text": "computer",
+    "comment": "an electronic machine"
+  },
+  {
+    "id": "13fc68eb-e8a6-4992-8429-2100928348a6",
+    "text": "carrot",
+    "comment": "rabbits like them"
+  },
+  {
+    "id": "e09a2335-f8bd-45ed-8735-ad23962e70eb",
+    "text": "indication",
+    "comment": "show you an information"
+  },
+  {
+    "id": "694f4be4-0fcb-4d08-bfae-56e50e9184db",
+    "text": "banana",
+    "comment": "a yellow fruit"
+  },
+  {
+    "id": "d43369d9-7f68-4189-a52a-6a01e0c3f54a",
+    "text": "information",
+    "comment": "knowledge"
+  },
+  {
+    "id": "b333fec3-0ad2-4742-b11c-c0258c3242d6",
+    "text": "money",
+    "comment": "coins and banknotes"
+  },
+  {
+    "id": "ae532dcc-97a3-4e07-9229-28d24d70bb24",
+    "text": "adventure",
+    "comment": "an exciting experiment"
+  },
+  {
+    "id": "e6e38172-272f-46ec-bd17-a4940beeb16f",
+    "text": "driver",
+    "comment": "person at the wheel"
+  },
+  {
+    "id": "d48e41c0-84d8-4539-9b1d-7841094390d2",
+    "text": "policeman",
+    "comment": "member of a police force"
+  },
+  {
+    "id": "f2431794-6c56-4059-bb58-d444d1d448aa",
+    "text": "pineapple",
+    "comment": "tropical fruit with tough segmented skin"
+  },
+  {
+    "id": "376f9ec7-bc2f-473f-a52d-711544baff7e",
+    "text": "stamp",
+    "comment": "affix it to an envelop"
+  },
+  {
+    "id": "f34b77e4-a3ff-4a6d-ac48-80680d34736d",
+    "text": "lunch",
+    "comment": "midday meal"
+  },
+  {
+    "id": "e354f244-74d6-4c31-b61f-b8e25cb8f050",
+    "text": "limousine",
+    "comment": "car for celebrities"
+  },
+  {
+    "id": "8ebdde20-c18c-4ddc-925d-cf7a599972a5",
+    "text": "escalator",
+    "comment": "moving staircase"
+  },
+  {
+    "id": "6b3823ee-9735-4a26-9db9-54e04d2e219d",
+    "text": "breakfast",
+    "comment": "first meal of the day"
+  },
+  {
+    "id": "b244c733-64f1-485c-94e8-1695d7f1f6cc",
+    "text": "flower",
+    "comment": "part of the plant from which seeds develop"
+  },
+  {
+    "id": "45625cc4-8ac5-4b2a-8256-56765d7d0d87",
+    "text": "education",
+    "comment": "systematic training"
+  },
+  {
+    "id": "c959bdd8-d8f9-4e8a-9a6b-cac8ab939525",
+    "text": "table",
+    "comment": "has a flat top with one or more legs"
+  },
+  {
+    "id": "480922f3-54ff-46f7-9b7a-6725c411d9d8",
+    "text": "classroom",
+    "comment": "where students are taught"
+  },
+  {
+    "id": "414a2fa4-718d-4c07-b6cc-00174bb8b4c5",
+    "text": "television",
+    "comment": "receives and displays images"
+  },
+  {
+    "id": "dbfb40bb-f8ce-4712-bd51-bf8ba82ef6f6",
+    "text": "mistake",
+    "comment": "incorrect idea or opinion"
+  },
+  {
+    "id": "eb5b6587-ec53-45ea-bef4-39c20439cf5c",
+    "text": "yesterday",
+    "comment": "the day before today"
+  },
+  {
+    "id": "f768a21e-eaf4-4769-a1cf-41c9bc851751",
+    "text": "people",
+    "comment": "large group of persons"
+  },
+  {
+    "id": "538634b5-bf02-47a0-9931-fc703966374a",
+    "text": "children",
+    "comment": "young humans"
+  },
+  {
+    "id": "be8bd657-c1a4-4be8-8d43-dd08a05966e8",
+    "text": "surprise",
+    "comment": "something sudden or unexpected"
+  },
+  {
+    "id": "12f86480-a5bc-4ee7-ae53-3174fd99f9b3",
+    "text": "jacket",
+    "comment": "a short coat"
+  },
+  {
+    "id": "48a19f72-3d67-487f-bb18-6c8ac0d25a51",
+    "text": "cheese",
+    "comment": "solid food made from milk"
+  },
+  {
+    "id": "21690763-0c1b-4090-9905-509c3f761216",
+    "text": "chicken",
+    "comment": "a young bird, especially of the domestic fowl"
+  },
+  {
+    "id": "184c77d8-b7ee-4363-bde7-9276c7ad0098",
+    "text": "dinner",
+    "comment": "evening meal"
+  },
+  {
+    "id": "1e45cf98-5d10-4284-b30a-71b8b958c215",
+    "text": "mountain",
+    "comment": "mass of land that rises to a great height"
+  },
+  {
+    "id": "2f5bdf39-ad23-4b4e-9ed7-abe16205400d",
+    "text": "forest",
+    "comment": "set of trees"
+  },
+  {
+    "id": "c4a4f2b1-c240-4e54-9fc3-a1779e681f8d",
+    "text": "potato",
+    "comment": "plant with starchy edible tubers"
+  },
+  {
+    "id": "8f472c30-2317-4e92-afce-6c339fa1ffba",
+    "text": "water",
+    "comment": "H2O"
+  },
+  {
+    "id": "bac05ddc-99c8-439a-a513-0d32e1f1f9ca",
+    "text": "river",
+    "comment": "a large natural stream of water"
+  }
+]

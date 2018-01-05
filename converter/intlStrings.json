@@ -1,0 +1,34 @@
+{
+  "appTitle": "Anagram",
+  "lang": "Language",
+  "keepTrying": "Incorrect",
+  "goodJob": "Correct!",
+  "showHint": "Hint",
+  "showAnswer": "Show Answer",
+  "next": "Next",
+  "languageName": "English",
+  "settings": "settings",
+  "done": "done",
+  "newVocabName": "New Vocabulary Name",
+  "uploadVocabName": "Upload Name",
+  "add": "Add",
+  "cancel": "Cancel",
+  "save": "Save",
+  "textinput": "Text",
+  "hint": "Hint",
+  "uploadSucess": "Upload Successful",
+  "message": "Message",
+  "ok": "Ok",
+  "cannotDelete":
+    "You are trying to delete the vocabulary you are editing, this is not allowed",
+  "manageVocabularies": "Manage Vocabularies",
+  "addVocab": "Add a Vocabulary",
+  "uploadVocab": "Upload a Vocabulary",
+  "addVocabMessage":
+    "Please enter the name of a new vocabulary you wish to create eg. Animals, Plants, Rivers etc.",
+  "uploadVocabMessage":
+    "Please enter the name for a vocabulary and upload vocabulary the file",
+  "upload": "Upload",
+  "yes": "Yes",
+  "areYouSure": "Sure?"
+}
